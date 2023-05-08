@@ -1,0 +1,928 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+    align-items: center;
+    background-color: var(--alto);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 2881px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .desktop-1 .group-14 {
+    align-items: flex-end;
+    display: flex;
+    height: 144px;
+    left: 0;
+    min-width: 1452px;
+    position: fixed;
+    top: 0;
+    z-index: 13;
+  }
+  
+  .desktop-1 .overlap-group5 {
+    height: 144px;
+    margin-bottom: 0;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .desktop-1 .rectangle-1 {
+    background-color: var(--laser-lemon);
+    box-shadow: 5px 4px 4px #00000040;
+    height: 139px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .desktop-1 .sn {
+    left: 1320px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 39px;
+    width: 31px;
+  }
+  
+  .desktop-1 .senegal-1 {
+    height: 60px;
+    left: 1266px;
+    object-fit: cover;
+    position: absolute;
+    top: 22px;
+    width: 54px;
+  }
+  
+  .desktop-1 .attractions {
+    left: 771px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 100px;
+    width: 132px;
+  }
+  
+  .desktop-1 .ferris-wheel-1 {
+    height: 46px;
+    left: 729px;
+    object-fit: cover;
+    position: absolute;
+    top: 93px;
+    width: 42px;
+  }
+  
+  .desktop-1 .location-de-voiture {
+    left: 479px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 100px;
+    width: 232px;
+  }
+  
+  .desktop-1 .icon-car {
+    height: 48px;
+    left: 418px;
+    top: 91px;
+    width: 46px;
+  }
+  
+  .desktop-1 .place {
+    left: 346px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 102px;
+    width: 49px;
+  }
+  
+  .desktop-1 .airplane-1 {
+    height: 37px;
+    left: 288px;
+    object-fit: cover;
+    position: absolute;
+    top: 102px;
+    width: 58px;
+  }
+  
+  .desktop-1 .hbergements {
+    left: 79px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 100px;
+    width: 183px;
+  }
+  
+  .desktop-1 .bed-1 {
+    height: 44px;
+    left: 22px;
+    object-fit: cover;
+    position: absolute;
+    top: 100px;
+    width: 42px;
+  }
+  
+  .desktop-1 .mareme-voyage {
+    left: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 22px;
+    width: 195px;
+  }
+  
+  .desktop-1 .overlap-group8 {
+    align-self: flex-start;
+    height: 627px;
+    margin-top: 139px;
+    position: relative;
+    width: 1450px;
+    z-index: 1;
+  }
+  
+  .desktop-1 .overlap-group {
+    height: 627px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .desktop-1 .rectangle-2 {
+    background-color: var(--alto);
+    box-shadow: 0px 4px 4px #00000040 , 5px 4px 4px #00000040;
+    height: 431px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .desktop-1 .x33812597_7598163-1 {
+    height: 427px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 5px;
+    width: 1440px;
+  }
+  
+  .desktop-1 .rectangle-3 {
+    background-color: #aba1a1;
+    border-radius: 15px;
+    height: 204px;
+    left: 288px;
+    position: absolute;
+    top: 377px;
+    width: 773px;
+  }
+  
+  .desktop-1 .rectangle-4 {
+    background-color: var(--white);
+    border-radius: 10px;
+    height: 61px;
+    left: 395px;
+    position: absolute;
+    top: 359px;
+    width: 614px;
+  }
+  
+  .desktop-1 .rectangle-8 {
+    background-color: var(--alto);
+    border-radius: 100px;
+    box-shadow: 10px 10px 4px #00000040;
+    height: 65px;
+    left: 443px;
+    position: absolute;
+    top: 562px;
+    width: 476px;
+  }
+  
+  .desktop-1 .cest-parti {
+    color: var(--black);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    left: 591px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 560px;
+    width: 450px;
+  }
+  
+  .desktop-1 .rectangle-9 {
+    background-color: var(--white);
+    height: 42px;
+    left: 441px;
+    position: absolute;
+    top: 495px;
+    width: 224px;
+  }
+  
+  .desktop-1 .rectangle-10 {
+    background-color: var(--white);
+    height: 42px;
+    left: 711px;
+    position: absolute;
+    top: 495px;
+    width: 224px;
+  }
+  
+  .desktop-1 .rectangle-11 {
+    background-color: var(--white);
+    border-radius: 5px;
+    height: 43px;
+    left: 441px;
+    position: absolute;
+    top: 436px;
+    width: 494px;
+  }
+  
+  .desktop-1 .icon-search {
+    height: 27px;
+    left: 450px;
+    top: 439px;
+    width: 27px;
+  }
+  
+  .desktop-1 .entrez-une-destinati {
+    left: 479px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 449px;
+    width: 308px;
+  }
+  
+  .desktop-1 .sjournez-avec-votre-budget {
+    left: 441px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 388px;
+    width: 203px;
+  }
+  
+  .desktop-1 .icon-home {
+    height: 39px;
+    left: 403px;
+    top: 368px;
+    width: 38px;
+  }
+  
+  .desktop-1 .icon-calendar {
+    height: 28px;
+    left: 449px;
+    top: 498px;
+    width: 28px;
+  }
+  
+  .desktop-1 .x7j7 {
+    left: 479px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 508px;
+    width: 25px;
+  }
+  
+  .desktop-1 .icon-user {
+    height: 27px;
+    left: 720px;
+    top: 503px;
+    width: 27px;
+  }
+  
+  .desktop-1 .address {
+    left: 753px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 497px;
+    width: 75px;
+  }
+  
+  .desktop-1 .polygon-1 {
+    height: 11px;
+    left: 905px;
+    position: absolute;
+    top: 520px;
+    width: 18px;
+  }
+  
+  .desktop-1 .rservez-sur-mareme-voyage {
+    color: var(--black);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    left: 454px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 217px;
+  }
+  
+  .desktop-1 .offres {
+    align-self: flex-start;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 80px;
+    margin-top: 37px;
+    min-height: 29px;
+    z-index: 2;
+  }
+  
+  .desktop-1 .frame-5 {
+    align-items: flex-end;
+    display: flex;
+    gap: 50px;
+    margin-right: 58.0px;
+    margin-top: 25px;
+    position: relative;
+    width: fit-content;
+    z-index: 12;
+  }
+  
+  .desktop-1 .group-11 {
+    height: 179px;
+    min-width: 602px;
+    position: relative;
+  }
+  
+  .desktop-1 .overlap-group-1 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645383bd69cdd9cf4fefc65e/releases/6453d21cb18b10acb0b9884a/img/184699273-1.png);
+    flex-direction: column;
+    gap: 5px;
+    left: 0;
+    min-height: 145px;
+    padding: 12px 18px;
+    position: absolute;
+    top: 34px;
+    width: 596px;
+  }
+  
+  .desktop-1 .x-vous {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 20px;
+  }
+  
+  .desktop-1 .profitez-de-la-liber {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xs);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 40px;
+  }
+  
+  .desktop-1 .des-promos-des-rd {
+    color: var(--black);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xs);
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-1 .group-12 {
+    height: 145px;
+    margin-right: -4.00px;
+    min-width: 596px;
+    position: relative;
+  }
+  
+  .desktop-1 .overlap-group1 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645383bd69cdd9cf4fefc65e/releases/6453d21cb18b10acb0b9884a/img/204490944-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    min-height: 145px;
+    padding: 13px 18px;
+    width: 592px;
+  }
+  
+  .desktop-1 .x15-minimum-sur-vo {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xs);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 8px;
+    min-height: 40px;
+  }
+  
+  .desktop-1 .ellipse-1 {
+    background-color: var(--laser-lemon);
+    border-radius: 13px;
+    height: 26px;
+    margin-right: 58.0px;
+    width: 26px;
+    z-index: 3;
+  }
+  
+  .desktop-1 .rechercher-par-type-dhbergement {
+    align-self: flex-start;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 80px;
+    margin-top: 8px;
+    min-height: 29px;
+    z-index: 4;
+  }
+  
+  .desktop-1 .frame-4 {
+    align-items: flex-start;
+    display: flex;
+    gap: 28px;
+    margin-top: 30px;
+    position: relative;
+    width: fit-content;
+    z-index: 5;
+  }
+  
+  .desktop-1 .group-7 {
+    height: 251px;
+    min-width: 315px;
+    position: relative;
+  }
+  
+  .desktop-1 .x57584488-1 {
+    height: 225px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 313px;
+  }
+  
+  .desktop-1 .htels {
+    left: 3px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 227px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .group-8 {
+    height: 254px;
+    min-width: 302px;
+    position: relative;
+  }
+  
+  .desktop-1 .x437019234-1 {
+    height: 225px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 300px;
+  }
+  
+  .desktop-1 .appartements {
+    left: 3px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 230px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .group-9 {
+    height: 253px;
+    min-width: 302px;
+    position: relative;
+  }
+  
+  .desktop-1 .x410435198-1 {
+    height: 225px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 300px;
+  }
+  
+  .desktop-1 .place-1 {
+    left: 0;
+    position: absolute;
+    top: 229px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .group-10 {
+    height: 256px;
+    margin-right: -2.00px;
+    min-width: 291px;
+    position: relative;
+  }
+  
+  .desktop-1 .x85115609-1 {
+    height: 225px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 289px;
+  }
+  
+  .desktop-1 .complexes-hteliers {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 232px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .destinations-populai {
+    align-self: flex-start;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 80px;
+    margin-top: 20px;
+    min-height: 52px;
+    z-index: 6;
+  }
+  
+  .desktop-1 .span1 {
+    color: var(--black);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xs2);
+    font-weight: 400;
+  }
+  
+  .desktop-1 .frame-2 {
+    align-items: flex-start;
+    display: flex;
+    gap: 28px;
+    margin-top: 42px;
+    position: relative;
+    width: fit-content;
+    z-index: 7;
+  }
+  
+  .desktop-1 .group-1 {
+    height: 290px;
+    min-width: 302px;
+    position: relative;
+  }
+  
+  .desktop-1 .x688567-1 {
+    height: 240px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 300px;
+  }
+  
+  .desktop-1 .mdine-arabie-saoudite {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 242px;
+    width: 160px;
+  }
+  
+  .desktop-1 .group-2 {
+    height: 293px;
+    min-width: 302px;
+    position: relative;
+  }
+  
+  .desktop-1 .x613095-1 {
+    height: 240px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 300px;
+  }
+  
+  .desktop-1 .londres-royaume-unie {
+    left: 3px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 245px;
+  }
+  
+  .desktop-1 .group-3 {
+    height: 271px;
+    min-width: 302px;
+    position: relative;
+  }
+  
+  .desktop-1 .x653231-1 {
+    height: 240px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 300px;
+  }
+  
+  .desktop-1 .montral-canada {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 247px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .group-4 {
+    height: 272px;
+    margin-right: -2.00px;
+    min-width: 302px;
+    position: relative;
+  }
+  
+  .desktop-1 .x972602-1-1 {
+    height: 240px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 300px;
+  }
+  
+  .desktop-1 .bruxelles-belgique {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 248px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .frame-3 {
+    align-items: flex-start;
+    display: flex;
+    gap: 27px;
+    margin-top: 81px;
+    position: relative;
+    width: fit-content;
+    z-index: 8;
+  }
+  
+  .desktop-1 .group-5 {
+    height: 410px;
+    min-width: 669px;
+    position: relative;
+  }
+  
+  .desktop-1 .overlap-group-2 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645383bd69cdd9cf4fefc65e/releases/6453d21cb18b10acb0b9884a/img/685430-1.png);
+    height: 410px;
+    min-width: 667px;
+    padding: 36px 44px;
+  }
+  
+  .desktop-1 .place-2 {
+    min-height: 39px;
+  }
+  
+  .desktop-1 .group-6 {
+    height: 410px;
+    margin-right: -2.00px;
+    min-width: 590px;
+    position: relative;
+  }
+  
+  .desktop-1 .overlap-group1-1 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645383bd69cdd9cf4fefc65e/releases/6453d21cb18b10acb0b9884a/img/896571-1.png);
+    height: 410px;
+    min-width: 588px;
+    padding: 36px 33px;
+  }
+  
+  .desktop-1 .saly-portudal {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 39px;
+  }
+  
+  .desktop-1 .frame-6 {
+    align-items: flex-start;
+    display: flex;
+    gap: 33px;
+    margin-right: 1.0px;
+    margin-top: 41px;
+    position: relative;
+    width: fit-content;
+    z-index: 9;
+  }
+  
+  .desktop-1 .group-15 {
+    height: 254px;
+    min-width: 409px;
+    position: relative;
+  }
+  
+  .desktop-1 .overlap-group-3 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645383bd69cdd9cf4fefc65e/releases/6453d21cb18b10acb0b9884a/img/613088-1@2x.png);
+    height: 254px;
+    min-width: 407px;
+    padding: 30px 44px;
+  }
+  
+  .desktop-1 .name {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 39px;
+  }
+  
+  .desktop-1 .group-16 {
+    height: 254px;
+    min-width: 424px;
+    position: relative;
+  }
+  
+  .desktop-1 .overlap-group1-2 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645383bd69cdd9cf4fefc65e/releases/6453d21cb18b10acb0b9884a/img/976784-1@2x.png);
+    height: 254px;
+    min-width: 422px;
+    padding: 30px 26px;
+  }
+  
+  .desktop-1 .place-3 {
+    min-height: 39px;
+  }
+  
+  .desktop-1 .group-17 {
+    height: 254px;
+    margin-right: -2.00px;
+    min-width: 392px;
+    position: relative;
+  }
+  
+  .desktop-1 .overlap-group2 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645383bd69cdd9cf4fefc65e/releases/6453d21cb18b10acb0b9884a/img/971353-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 254px;
+    min-width: 390px;
+    padding: 30px 46px;
+  }
+  
+  .desktop-1 .place-4 {
+    min-height: 39px;
+  }
+  
+  .desktop-1 .overlap-group6 {
+    height: 97px;
+    margin-top: 70px;
+    position: relative;
+    width: 1440px;
+    z-index: 11;
+  }
+  
+  .desktop-1 .rectangle-13 {
+    background-color: var(--white);
+    height: 96px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 1440px;
+  }
+  
+  .desktop-1 .gagnez-du-temps-et-d {
+    color: var(--black);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    left: 305px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+  }
+  
+  .desktop-1 .span0 {
+    font-weight: 600;
+  }
+  
+  .desktop-1 .group-19 {
+    align-items: flex-start;
+    display: flex;
+    gap: 37px;
+    height: 24px;
+    left: 371px;
+    min-width: 482px;
+    position: absolute;
+    top: 66px;
+  }
+  
+  .desktop-1 .overlap-group4 {
+    align-items: flex-start;
+    background-color: var(--alto);
+    display: flex;
+    height: 24px;
+    min-width: 301px;
+    padding: 0 5px;
+  }
+  
+  .desktop-1 .email {
+    color: var(--black);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xs2);
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .overlap-group3 {
+    align-items: flex-start;
+    background-color: var(--alto);
+    display: flex;
+    height: 24px;
+    min-width: 140px;
+    padding: 0 11px;
+  }
+  
+  .desktop-1 .envoyer {
+    color: var(--black);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xs2);
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .overlap-group7 {
+    align-items: center;
+    background-color: var(--laser-lemon);
+    display: flex;
+    gap: 293px;
+    height: 136px;
+    min-width: 1440px;
+    padding: 0 77px;
+    z-index: 10;
+  }
+  
+  .desktop-1 .suivez-nous-sur {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 1.0px;
+    min-height: 29px;
+    min-width: 189px;
+  }
+  
+  .desktop-1 .frame-1 {
+    height: 64px;
+    width: 322px;
+  }
+  
+  .desktop-1 .icon {
+    object-fit: cover;
+    position: absolute;
+  }
+  
+  .desktop-1 .overlap-group-4 {
+    align-items: flex-start;
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+  }
+  
+  .desktop-1 .overlap-group1-3 {
+    align-items: flex-start;
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+  }
+  
+  .desktop-1 .place-5 {
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
